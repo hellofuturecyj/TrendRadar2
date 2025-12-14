@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:39:03.085259+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-12-14T13:22:38.897804+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -107,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 13时22分]"
         },
         {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 13时22分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -194,17 +205,6 @@
           "time_info": "[00时30分 ~ 03时17分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 12时39分]"
-        },
-        {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
           "url": "https://www.cls.cn/detail/2228813",
           "source": "财联社热门",
@@ -213,8 +213,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时22分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -224,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时22分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -235,8 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时22分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -244,11 +244,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时22分]"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
@@ -321,8 +322,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 12时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 13时22分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -343,8 +344,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时22分]"
         }
       ]
     },
@@ -361,8 +362,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时22分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -387,11 +388,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时22分]"
         }
       ]
     }
