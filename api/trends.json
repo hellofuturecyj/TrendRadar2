@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T15:27:42.000360+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-15T16:36:06.230029+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时36分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -152,8 +152,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     },
@@ -161,6 +172,20 @@
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时36分]"
+        },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
           "url": "https://www.cls.cn/detail/2229152",
@@ -174,20 +199,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -207,11 +218,12 @@
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时36分]"
         }
       ]
     },
@@ -226,7 +238,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
