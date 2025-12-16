@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:25:59.830602+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-12-16T16:34:13.622389+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
           "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
           "source": "凤凰网",
@@ -56,19 +69,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 07时23分]"
-        },
-        {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -110,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 16时34分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
