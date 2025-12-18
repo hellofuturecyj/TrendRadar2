@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:30:49.845242+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-12-18T18:27:21.576932+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -35,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 17时30分]"
+          "appearance_count": 12,
+          "time_info": "[07时22分 ~ 18时27分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -68,11 +68,12 @@
           "ranks": [
             8,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时30分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时27分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -113,6 +114,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时22分]"
+        },
+        {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
@@ -163,15 +175,16 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时30分]"
+          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "特朗普账户宣传存1千可涨至60万",
@@ -220,17 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
@@ -367,6 +369,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "特朗普说委内瑞拉抢了美国的石油",
           "url": "https://wallstreetcn.com/livenews/3022878",
           "source": "华尔街见闻-快讯",
@@ -453,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218175046915800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "据Politico：特朗普政府正询问美国石油业界，一旦马杜罗下台，他们是否愿意重返委内瑞拉。",
@@ -624,8 +648,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时23分 ~ 17时30分]"
+          "appearance_count": 13,
+          "time_info": "[06时23分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -729,7 +753,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -965,8 +989,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时30分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时27分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1052,11 +1076,12 @@
           "url": "https://www.zhihu.com/question/1984549559230289347",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时27分]"
         }
       ]
     }
