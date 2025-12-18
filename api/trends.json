@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T22:26:25.592420+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2025-12-18T23:26:51.492218+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -116,6 +116,17 @@
           "time_info": "[12时36分 ~ 13时25分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时48分 ~ 23时26分]"
+        },
+        {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
           "url": "https://wallstreetcn.com/livenews/3022547",
           "source": "华尔街见闻-快讯",
@@ -190,17 +201,6 @@
           "time_info": "[17时29分 ~ 19时22分]"
         },
         {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时48分 ~ 22时26分]"
-        },
-        {
           "title": "特朗普账户宣传存1千可涨至60万",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -211,6 +211,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时33分 ~ 17时30分]"
+        },
+        {
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -329,17 +341,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2233937",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
           "url": "https://flash.jin10.com/detail/20251218000548868800",
           "source": "金十数据",
@@ -448,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普媒体科技涨29%。",
+          "url": "https://wallstreetcn.com/livenews/3023215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -706,7 +718,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -718,8 +730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时23分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[06时23分 ~ 23时26分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -752,7 +764,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -856,7 +868,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -870,6 +882,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
@@ -911,9 +945,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251218224104340800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -936,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "AI热潮难再雨露均沾 摩根大通警示美股极端拥挤 并点名六只高风险个股",
+          "url": "https://wallstreetcn.com/livenews/3023201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
@@ -1068,7 +1124,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -1080,8 +1136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时26分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1095,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时37分 ~ 17时30分]"
+        },
+        {
+          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
+          "url": "https://wallstreetcn.com/livenews/3023228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1188,7 +1255,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
