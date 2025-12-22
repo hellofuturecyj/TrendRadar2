@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:48:36.861082+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-12-22T21:36:49.475174+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -59,6 +59,17 @@
           "time_info": "[00时27分 ~ 18时26分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -72,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时42分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 21时36分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[02时31分 ~ 16时34分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时48分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -216,8 +216,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时48分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时36分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -282,6 +282,19 @@
           "time_info": "[16时34分 ~ 18时26分]"
         },
         {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
           "url": "https://wallstreetcn.com/livenews/3024905",
           "source": "华尔街见闻-快讯",
@@ -294,16 +307,15 @@
           "time_info": "[19时21分 ~ 20时48分]"
         },
         {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
+          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
+          "url": "https://flash.jin10.com/detail/20251222211021305800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -364,7 +376,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -415,11 +427,23 @@
             12,
             6,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时27分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 21时36分]"
+        },
+        {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -437,11 +461,12 @@
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -460,11 +485,12 @@
           "url": "https://wallstreetcn.com/livenews/3024941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
@@ -473,7 +499,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
