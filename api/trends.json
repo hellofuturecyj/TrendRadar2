@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:27:16.671084+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-12-28T14:35:34.951808+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -84,6 +84,17 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 14时35分]"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时54分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 13时27分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
