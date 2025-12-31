@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:33:22.054838+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-31T17:28:33.495036+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             10,
             5,
             7,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 17时28分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -298,7 +299,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -330,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 17时28分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
