@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T11:42:19.288173+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-01-07T12:43:27.726341+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -112,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -127,8 +128,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -192,6 +193,17 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
+        },
+        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -228,26 +240,16 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
-        },
-        {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
           "url": "https://www.cls.cn/detail/2249952",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -257,8 +259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
@@ -749,8 +751,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 12时43分]"
+        },
+        {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -762,18 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -945,11 +947,12 @@
           "url": "https://wallstreetcn.com/livenews/3032063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时43分]"
         }
       ]
     },
