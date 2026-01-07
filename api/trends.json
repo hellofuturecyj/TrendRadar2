@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:28:28.980179+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-01-07T19:23:35.268453+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 19时23分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -178,8 +178,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时23分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -204,18 +217,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时53分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时28分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -302,6 +303,19 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -336,18 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
@@ -468,6 +470,18 @@
           "time_info": "[17时32分 ~ 18时28分]"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普敲打印度",
           "url": "https://www.douyin.com/hot/2358596",
           "source": "抖音",
@@ -507,7 +521,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -587,17 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
