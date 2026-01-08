@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:28:13.971865+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-01-08T19:23:41.470682+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 19时23分]"
         },
         {
           "title": "特朗普的下一步，难了",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 19时23分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 19时23分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -82,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -219,6 +219,17 @@
           "time_info": "[13时27分 ~ 16时34分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
           "url": "https://flash.jin10.com/detail/20260108060632294800",
           "source": "金十数据",
@@ -339,17 +350,6 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -361,6 +361,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普称2027年军费预算1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "哥伦比亚总统与特朗普通电话",
@@ -444,6 +456,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普称美将持续多年管理委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3033213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -590,17 +614,6 @@
           "time_info": "[02时37分 ~ 03时23分]"
         },
         {
-          "title": "特朗普称2027年军费预算1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
           "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
           "url": "https://flash.jin10.com/detail/20260108053149928800",
           "source": "金十数据",
@@ -711,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普称美将持续多年管理委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3033213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -862,7 +864,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -889,6 +891,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "以色列总理内塔尼亚胡取消了原定于今天对约旦河西岸的访问，转而与特朗普任命的加沙和平委员会新任主席尼古拉·姆拉德诺夫（Nikolay Mladenov）会面。",
+          "url": "https://flash.jin10.com/detail/20260108182040235800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
           "url": "https://flash.jin10.com/detail/20260108051838195800",
           "source": "金十数据",
@@ -906,7 +919,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -969,7 +982,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -980,8 +993,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1139,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "从“冷门”到“爆款” 美股存储巨头2026开年狂飙",
+          "url": "https://flash.jin10.com/detail/20260108181820906800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -1157,8 +1181,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时23分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
