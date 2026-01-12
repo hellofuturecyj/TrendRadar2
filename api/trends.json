@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:29:19.090030+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-01-12T23:29:47.898323+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -21,6 +21,31 @@
           "time_info": "[11时56分 ~ 21时44分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时29分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/articles/3763030",
           "source": "华尔街见闻",
@@ -32,31 +57,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时29分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时29分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -209,6 +209,30 @@
           "time_info": "[09时59分 ~ 13时32分]"
         },
         {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时29分]"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时29分]"
+        },
+        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -218,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3035435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -244,6 +279,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "特朗普称正考虑对伊的非常强硬选项",
@@ -290,17 +339,6 @@
           "time_info": "18时29分"
         },
         {
-          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
-          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
           "url": "https://flash.jin10.com/detail/20260112092912020800",
           "source": "金十数据",
@@ -310,18 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -336,19 +362,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -413,6 +426,18 @@
           "time_info": "[12时53分 ~ 13时32分]"
         },
         {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 23时29分]"
+        },
+        {
           "title": "美企业家：特朗普正在损害美国实力",
           "url": "https://www.toutiao.com/trending/7593575351952343059/",
           "source": "今日头条",
@@ -468,18 +493,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时32分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 22时29分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -747,7 +760,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -766,7 +779,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -779,8 +792,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时59分 ~ 22时29分]"
+          "appearance_count": 18,
+          "time_info": "[09时59分 ~ 23时29分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -832,6 +845,17 @@
           "time_info": "[21时44分 ~ 22时29分]"
         },
         {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260112070303731800",
           "source": "金十数据",
@@ -877,15 +901,81 @@
           "time_info": "17时35分"
         },
         {
+          "title": "美股集体低开 中概股逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
           "url": "https://flash.jin10.com/detail/20260112214500163800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌",
+          "url": "https://wallstreetcn.com/livenews/3035421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美股跌幅收窄，纳指转涨。AMD(AMD.O)现涨1.8%、诺和诺德(NVO.N)涨1.81%。",
+          "url": "https://flash.jin10.com/detail/20260112225800934800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260112225350927800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "周一美股盘前你需要了解的全球要闻",
@@ -894,7 +984,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -913,7 +1003,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -924,8 +1014,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时30分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时30分 ~ 23时29分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -976,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
@@ -990,7 +1091,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1001,7 +1102,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
