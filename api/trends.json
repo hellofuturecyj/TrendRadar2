@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:38:35.601742+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-01-15T15:28:27.062828+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时28分]"
+        },
+        {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时28分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时28分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -110,29 +135,18 @@
           "time_info": "09时53分"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
+            8,
             7,
             6,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时38分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时28分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -194,19 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时44分 ~ 14时38分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时38分]"
         },
         {
           "title": "委内瑞拉代总统和特朗普通话",
@@ -807,7 +808,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -909,6 +910,17 @@
           "time_info": "[02时37分 ~ 06时26分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时28分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
           "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
@@ -920,17 +932,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时20分 ~ 14时38分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时38分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -973,7 +974,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -1147,11 +1148,12 @@
             13,
             12,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
