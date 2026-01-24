@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T15:22:52.488849+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-01-24T16:31:31.129072+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -52,22 +52,33 @@
           "time_info": "[00时34分 ~ 09时51分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时22分]"
-        },
-        {
           "title": "斯塔默要求特朗普道歉，白宫回应",
           "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时31分]"
+        },
+        {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时22分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -139,6 +139,19 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 16时31分]"
+        },
+        {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -153,16 +166,15 @@
           "time_info": "[12时37分 ~ 15时22分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时31分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -177,17 +189,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 15时22分]"
-        },
-        {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时22分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -219,6 +220,18 @@
           "time_info": "[09时51分 ~ 14时35分]"
         },
         {
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时31分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://flash.jin10.com/detail/20260124090807365800",
           "source": "金十数据",
@@ -234,6 +247,29 @@
           "time_info": "[09时51分 ~ 14时35分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -244,18 +280,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时26分 ~ 07时24分]"
-        },
-        {
-          "title": "报道：特朗普要求格陵兰全面放开军事限制",
-          "url": "https://wallstreetcn.com/articles/3764043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时24分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -405,6 +429,18 @@
           "time_info": "[12时37分 ~ 14时35分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -428,17 +464,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时24分 ~ 11时38分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时22分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -465,6 +490,18 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时31分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -475,17 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时26分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时22分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -510,15 +536,15 @@
           "time_info": "11时38分"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
+          "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
+          "url": "https://flash.jin10.com/detail/20260124152358340800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "16时31分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -579,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时31分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -603,8 +629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时31分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -834,7 +860,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -862,6 +888,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "谷歌高管谈AI开发的危与机",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
