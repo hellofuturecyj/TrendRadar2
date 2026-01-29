@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:42:05.903794+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-01-29T16:43:48.842366+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,20 @@
           "time_info": "[00时41分 ~ 10时11分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 16时43分]"
+        },
+        {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
           "url": "https://news.ifeng.com/c/8qHmjbQngoK",
           "source": "凤凰网",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 15时42分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -119,11 +120,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -132,11 +134,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -148,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
@@ -766,11 +769,12 @@
           "ranks": [
             3,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
