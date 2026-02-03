@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:53:28.001421+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-03T14:56:02.356651+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 14时56分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -51,6 +51,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时56分]"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -75,18 +88,6 @@
           "time_info": "02时49分"
         },
         {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时53分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
@@ -96,8 +97,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时56分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时56分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -136,16 +150,15 @@
           "time_info": "[00时44分 ~ 01时41分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时53分]"
+          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
@@ -556,7 +569,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -567,7 +580,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -578,17 +591,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -596,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时56分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -608,8 +610,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 14时56分]"
+        },
+        {
+          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
