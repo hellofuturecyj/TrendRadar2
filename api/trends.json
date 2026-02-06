@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:46:22.918934+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-02-06T18:42:59.522301+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 18时42分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 18时42分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -66,8 +66,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时42分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206180327794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -285,6 +296,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "特朗普力挺高市，金融市场怎么看？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260206175033829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -302,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -327,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -390,7 +423,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -450,6 +483,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
           "url": "https://flash.jin10.com/detail/20260206020145026800",
           "source": "金十数据",
@@ -475,7 +519,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -485,8 +529,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 18时42分]"
         },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -583,6 +627,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013123695800",
           "source": "金十数据",
@@ -592,17 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
-          "url": "https://wallstreetcn.com/livenews/3051294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -627,6 +671,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时42分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
@@ -684,6 +740,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
+          "url": "https://flash.jin10.com/detail/20260206173458950800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3051309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -815,8 +893,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 18时42分]"
         }
       ]
     },
@@ -872,8 +950,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 18时42分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
