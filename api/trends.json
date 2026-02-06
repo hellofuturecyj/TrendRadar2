@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:52:06.330444+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-02-06T16:45:20.152150+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 16时45分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -32,6 +32,21 @@
           "time_info": "[12时49分 ~ 15时52分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 16时45分]"
+        },
+        {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
           "source": "凤凰网",
@@ -43,18 +58,15 @@
           "time_info": "[00时53分 ~ 07时26分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10,
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 15时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -300,7 +312,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -443,6 +455,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 16时45分]"
+        },
+        {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -452,17 +475,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 06时31分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 15时52分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -768,8 +780,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 16时45分]"
         }
       ]
     },
@@ -796,7 +808,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -825,8 +837,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 16时45分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
