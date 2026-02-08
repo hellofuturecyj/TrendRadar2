@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:25:51.053508+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-02-08T20:55:57.119519+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -233,11 +233,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
@@ -281,6 +282,18 @@
           "time_info": "[14时54分 ~ 16时37分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时55分]"
+        },
+        {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
           "url": "https://flash.jin10.com/detail/20260207233303917800",
           "source": "金十数据",
@@ -302,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
-          "url": "https://flash.jin10.com/detail/20260208181448181800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
@@ -339,11 +341,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 19时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 20时55分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -356,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 20时55分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -405,8 +408,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时55分]"
         }
       ]
     },
@@ -423,8 +426,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时55分]"
         }
       ]
     },
@@ -438,11 +441,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时55分]"
         }
       ]
     }
