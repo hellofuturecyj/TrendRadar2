@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T15:52:52.547103+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-24T16:54:17.083509+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -94,6 +94,19 @@
           "time_info": "[10时49分 ~ 14时02分]"
         },
         {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 16时54分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
           "url": "https://flash.jin10.com/detail/20260224134038685800",
           "source": "金十数据",
@@ -178,18 +191,6 @@
           "time_info": "[13时02分 ~ 14时02分]"
         },
         {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 15时52分]"
-        },
-        {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
           "url": "https://wallstreetcn.com/livenews/3057600",
           "source": "华尔街见闻-快讯",
@@ -243,11 +244,12 @@
           "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时54分]"
         },
         {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
@@ -310,6 +312,17 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时54分]"
+        },
+        {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
           "url": "https://flash.jin10.com/detail/20260224043714344800",
           "source": "金十数据",
@@ -332,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
+          "url": "https://www.cls.cn/detail/2293113",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时54分]"
         },
         {
           "title": "短中期美债收益率至少跌4个基点，特朗普关税带来贸易不确定性风险",
@@ -452,6 +477,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
           "url": "https://wallstreetcn.com/livenews/3057693",
           "source": "华尔街见闻-快讯",
@@ -485,17 +521,6 @@
           "time_info": "06时44分"
         },
         {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
           "url": "https://flash.jin10.com/detail/20260224065013551800",
           "source": "金十数据",
@@ -518,15 +543,15 @@
           "time_info": "14时02分"
         },
         {
-          "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
-          "url": "https://www.cls.cn/detail/2293113",
-          "source": "财联社热门",
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "16时54分"
         },
         {
           "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
@@ -568,7 +593,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -590,7 +615,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -623,7 +648,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -648,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普回应男子闯海湖庄园被击毙",
+          "url": "https://www.toutiao.com/trending/7609236585661632063/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -694,6 +730,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "欧盟警告称：特朗普的新关税政策破坏了双方贸易协定",
           "url": "https://wallstreetcn.com/livenews/3057673",
           "source": "华尔街见闻-快讯",
@@ -719,7 +766,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -754,8 +801,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 16时54分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -767,8 +814,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 16时54分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -855,6 +902,18 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时54分]"
+        },
+        {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
           "url": "https://flash.jin10.com/detail/20260224050545152800",
           "source": "金十数据",
@@ -867,17 +926,6 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时52分]"
-        },
-        {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3057657",
           "source": "华尔街见闻-快讯",
@@ -888,6 +936,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时44分]"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -972,6 +1031,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
