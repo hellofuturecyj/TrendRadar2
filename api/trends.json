@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:04:28.576759+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-02-27T22:41:15.730522+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -37,6 +37,33 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[07时33分 ~ 21时04分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时41分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 22时41分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -77,42 +104,26 @@
           "time_info": "[14时58分 ~ 18时41分]"
         },
         {
+          "title": "胡锡进：特朗普将自己置于矛盾境地",
+          "url": "https://news.ifeng.com/c/8r5pc0FsAVG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
+        },
+        {
           "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
           "url": "https://flash.jin10.com/detail/20260227203739625800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时04分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时04分]"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -124,6 +135,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "厄瓜多尔方面表示，将出席美国总统特朗普聚焦安全的会议。",
+          "url": "https://flash.jin10.com/detail/20260227221344850800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普政府周五面临首个重大关税退税法定期限",
+          "url": "https://wallstreetcn.com/livenews/3060363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-27）",
@@ -143,7 +176,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -258,6 +291,17 @@
           "time_info": "[02时56分 ~ 03时45分]"
         },
         {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
+        },
+        {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
           "url": "https://flash.jin10.com/detail/20260227003534213800",
           "source": "金十数据",
@@ -289,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普将在得州宣传经济和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260227220949883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
@@ -355,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普科技集团、TAE、TVA正在洽谈分拆Truth Social。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3060347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
@@ -448,7 +514,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -653,6 +719,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "谷歌推出最新图像模型Nano Banana 2",
           "url": "https://flash.jin10.com/detail/20260227001845830800",
           "source": "金十数据",
@@ -667,7 +744,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -703,6 +780,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 10时12分]"
+        },
+        {
+          "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -787,6 +875,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3060354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
           "url": "https://flash.jin10.com/detail/20260227053003552800",
           "source": "金十数据",
@@ -837,7 +936,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -851,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美股石油股盘前走高，埃克森美孚石油(XOM.N)上涨1.7%，雪佛龙(CVX.N)上涨1.4%，康菲石油(COP.N)上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260227215626958800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "CoreWeave美股盘后跌幅扩大至12%。",
@@ -867,7 +977,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -895,6 +1005,28 @@
           "time_info": "[13时54分 ~ 18时41分]"
         },
         {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
+        },
+        {
+          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
+          "url": "https://wallstreetcn.com/livenews/3060358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -906,6 +1038,94 @@
           "time_info": "03时45分"
         },
         {
+          "title": "据华尔街日报：OpenAI与美国国防部尚未签署任何协议。",
+          "url": "https://flash.jin10.com/detail/20260227220453170800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼正与美国国防部合作，探讨是否可使用相关模型。",
+          "url": "https://flash.jin10.com/detail/20260227220430471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：对在合适的时机上市持开放态度。 希望与亚马逊建立长期、深入的关系。",
+          "url": "https://wallstreetcn.com/livenews/3060349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼呼吁缓和美国国防部与Anthropic之间的争端。",
+          "url": "https://flash.jin10.com/detail/20260227220219102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：当前的融资提供了长期发展的保障。",
+          "url": "https://flash.jin10.com/detail/20260227215950428800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "OpenAI：以7300亿美元的估值完成创纪录的1100亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
+          "url": "https://flash.jin10.com/detail/20260227215941059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
           "url": "https://wallstreetcn.com/livenews/3059885",
           "source": "华尔街见闻-快讯",
@@ -915,12 +1135,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260227215545958800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：专注于降低服务交付成本。",
+          "url": "https://flash.jin10.com/detail/20260227215455321800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
@@ -944,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
+          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3060340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
