@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T20:54:06.958567+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-03-01T21:41:39.278796+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时56分 ~ 20时54分]"
+          "appearance_count": 12,
+          "time_info": "[12时56分 ~ 21时41分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 21时41分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 21时41分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -320,6 +320,18 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时41分]"
+        },
+        {
           "title": "特朗普监控伊朗行动照片曝光",
           "url": "https://www.toutiao.com/trending/7611449201683353107/",
           "source": "今日头条",
@@ -384,18 +396,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时54分]"
         },
         {
           "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
@@ -492,6 +492,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 14时52分]"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时41分]"
         },
         {
           "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
@@ -618,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
-          "url": "https://flash.jin10.com/detail/20260301201929437800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "特朗普政府高级官员：美国曾向伊朗提出多种途径，使其核计划走向文明、和平，但伊方却玩弄手段、欺骗敷衍。",
@@ -938,8 +939,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 20时54分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 21时41分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
