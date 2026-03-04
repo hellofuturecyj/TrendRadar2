@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:33:20.597019+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-03-04T21:02:13.610388+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 21时02分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -54,11 +54,23 @@
             21,
             24,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 19时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 21时02分]"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 21时02分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 19时33分]"
         },
         {
           "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
@@ -213,6 +214,17 @@
           "time_info": "[10时11分 ~ 14时53分]"
         },
         {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
           "url": "https://wallstreetcn.com/livenews/3062981",
           "source": "华尔街见闻-快讯",
@@ -237,15 +249,17 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 21时02分]"
         },
         {
           "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
@@ -317,18 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -419,6 +421,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "英国首相斯塔默：紧抓美国总统特朗普的一言一行，并非英美特殊关系的体现。",
+          "url": "https://flash.jin10.com/detail/20260304203527442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
           "url": "https://flash.jin10.com/detail/20260304011934425800",
           "source": "金十数据",
@@ -439,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国财长贝森特：原油市场供应十分充足。 大量的原油已远离海湾地区。 美国将为海湾地区的船只提供保险。 未来几天将与船东取得联系。 西班牙的表现实在是糟糕透顶。 西班牙在搭美国和其他北约盟国的便车。 15%的关税税率可能将于本周生效。 （谈伊朗）特朗普对此有远见，各方都应退后一步。",
+          "url": "https://wallstreetcn.com/livenews/3063634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美国总统特朗普：我们有五个月的时间可以对不同国家征收15%的关税，期限过后，我们将逐步公布对不同国家的关税。",
@@ -796,7 +820,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -807,8 +831,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 21时02分]"
         },
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -845,6 +869,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 10时11分]"
+        },
+        {
+          "title": "风险资产全线反弹，美股期指转涨，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
@@ -1145,6 +1180,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
+          "url": "https://wallstreetcn.com/livenews/3062921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1154,23 +1217,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
-          "url": "https://wallstreetcn.com/livenews/3062921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
