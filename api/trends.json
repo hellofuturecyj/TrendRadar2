@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:38:54.073771+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-03-06T19:32:18.554092+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时07分 ~ 18时38分]"
+          "appearance_count": 18,
+          "time_info": "[02时07分 ~ 19时32分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 19时32分]"
         },
         {
           "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
@@ -110,6 +110,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 19时32分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -180,17 +194,17 @@
           "time_info": "[14时54分 ~ 16时42分]"
         },
         {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            13,
-            11
+            10,
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时40分 ~ 18时38分]"
+          "time_info": "[16时41分 ~ 19时32分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -240,18 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时48分]"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时38分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -398,6 +400,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32710617",
           "source": "澎湃新闻",
@@ -415,7 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -657,7 +670,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -720,8 +733,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时52分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[07时52分 ~ 19时32分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -919,7 +932,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -936,11 +949,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 19时32分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
