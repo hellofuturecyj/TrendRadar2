@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:43:09.462543+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-03-11T19:36:07.971371+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 18时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 19时36分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -111,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 18时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 19时36分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -124,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 18时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 19时36分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -137,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 18时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时31分 ~ 19时36分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -152,6 +152,17 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
+          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 19时36分]"
+        },
+        {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -161,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
@@ -443,7 +443,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -582,8 +582,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 18时43分]"
+          "appearance_count": 16,
+          "time_info": "[07时31分 ~ 19时36分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
