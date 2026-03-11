@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:49:43.942570+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-03-11T23:52:36.829551+08:00",
+  "total_titles_processed": 2050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时44分 ~ 22时49分]"
+          "appearance_count": 18,
+          "time_info": "[12时44分 ~ 23时52分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -111,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时09分 ~ 22时49分]"
+          "appearance_count": 19,
+          "time_info": "[10时09分 ~ 23时52分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -125,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时09分 ~ 22时49分]"
+          "appearance_count": 19,
+          "time_info": "[10时09分 ~ 23时52分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -175,6 +175,17 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -184,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
@@ -345,7 +345,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -400,7 +400,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -411,7 +411,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -425,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普说对伊行动即将结束",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "舒默批评特朗普言论荒谬至极 呼吁对伊朗学校遇袭事件展开调查",
@@ -576,7 +587,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -638,8 +649,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时31分 ~ 22时49分]"
+          "appearance_count": 20,
+          "time_info": "[07时31分 ~ 23时52分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -704,11 +715,12 @@
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时52分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
@@ -721,6 +733,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -757,17 +780,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
