@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T12:45:11.064827+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-03-11T13:51:53.206758+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时51分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -97,6 +97,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
@@ -130,6 +152,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时51分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -169,6 +215,18 @@
           "time_info": "[03时40分 ~ 04时37分]"
         },
         {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时51分]"
+        },
+        {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
           "url": "https://wallstreetcn.com/livenews/3067598",
           "source": "华尔街见闻-快讯",
@@ -181,30 +239,6 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时45分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时45分]"
-        },
-        {
           "title": "普京与特朗普通话讨论伊朗局势",
           "url": "https://www.douyin.com/hot/2424957",
           "source": "抖音",
@@ -215,17 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
         },
         {
           "title": "美国白宫：特朗普并未排除地面部队的选项。",
@@ -522,8 +545,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时51分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时51分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -535,18 +570,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 06时32分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时45分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -741,7 +764,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -750,7 +773,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -761,9 +784,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "OpenAI计划将AI视频生成工具Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
