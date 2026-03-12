@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T01:08:11.380651+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-03-13T02:58:23.249790+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -50,8 +50,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
+          "url": "https://flash.jin10.com/detail/20260313023939495800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -60,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -93,7 +104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -104,7 +115,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -134,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -146,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -156,7 +167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -167,9 +178,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
+          "url": "https://wallstreetcn.com/livenews/3069106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
+          "url": "https://flash.jin10.com/detail/20260313023234906800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
@@ -182,11 +221,12 @@
           "url": "https://wallstreetcn.com/livenews/3069075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时58分]"
         }
       ]
     }
