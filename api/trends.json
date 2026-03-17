@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:18:48.297630+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-03-17T16:57:24.215997+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -82,6 +82,19 @@
           "time_info": "[01时04分 ~ 04时41分]"
         },
         {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 16时57分]"
+        },
+        {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
           "source": "澎湃新闻",
@@ -118,16 +131,18 @@
           "time_info": "[06时37分 ~ 07时35分]"
         },
         {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
           "ranks": [
+            5,
             6,
-            5
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 16时57分]"
         },
         {
           "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
@@ -152,6 +167,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "中方回应特朗普称推迟一个月访华",
+          "url": "https://www.toutiao.com/trending/7618123908893380150/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
           "url": "https://wallstreetcn.com/livenews/3071063",
           "source": "华尔街见闻-快讯",
@@ -163,17 +189,26 @@
           "time_info": "01时05分"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 16时57分]"
+        },
+        {
+          "title": "中方回应特朗普称可能推迟访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -187,15 +222,15 @@
           "time_info": "10时23分"
         },
         {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时18分]"
+          "time_info": "[12时54分 ~ 16时57分]"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -258,6 +293,18 @@
           "time_info": "[12时54分 ~ 14时02分]"
         },
         {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时57分]"
+        },
+        {
           "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
           "url": "https://flash.jin10.com/detail/20260317050625478800",
           "source": "金十数据",
@@ -282,6 +329,19 @@
           "time_info": "[05时42分 ~ 06时37分]"
         },
         {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 16时57分]"
+        },
+        {
           "title": "中美就特朗普总统访华事保持着沟通",
           "url": "https://www.toutiao.com/trending/7616995731195052086/",
           "source": "今日头条",
@@ -295,17 +355,6 @@
           "time_info": "[03时05分 ~ 06时37分]"
         },
         {
-          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
-          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时18分]"
-        },
-        {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
@@ -315,18 +364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 14时02分]"
-        },
-        {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -350,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
@@ -429,6 +455,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉（市场）。 将在委内瑞拉迅速地增产石油。",
           "url": "https://wallstreetcn.com/livenews/3071054",
           "source": "华尔街见闻-快讯",
@@ -438,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
@@ -501,7 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -561,6 +609,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "外交部回应特朗普访华时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%B6%E9%97%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "美国总统特朗普：我们已从委内瑞拉运出了数百万桶石油。",
           "url": "https://flash.jin10.com/detail/20260317002426678800",
           "source": "金十数据",
@@ -600,7 +659,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -802,11 +861,12 @@
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 16时57分]"
         },
         {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
@@ -842,8 +902,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 16时57分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -973,8 +1033,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016896539008726692",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
           "url": "https://wallstreetcn.com/livenews/3071045",
