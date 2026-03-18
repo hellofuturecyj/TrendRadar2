@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T12:59:09.586167+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-03-18T14:07:59.342647+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 12时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 14时07分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -77,8 +77,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 14时07分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -159,6 +170,18 @@
           "time_info": "[00时13分 ~ 04时42分]"
         },
         {
+          "title": "国台办回应特朗普或将批准对台军售案",
+          "url": "https://www.toutiao.com/trending/7617485967372320822/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3071838",
           "source": "华尔街见闻-快讯",
@@ -176,11 +199,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时07分]"
         },
         {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
@@ -191,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时07分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -200,11 +224,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时07分]"
+        },
+        {
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时07分]"
         },
         {
           "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
@@ -217,17 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
-        },
-        {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
@@ -254,17 +291,6 @@
           "time_info": "[05时40分 ~ 06时36分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
           "url": "https://wallstreetcn.com/livenews/3071902",
           "source": "华尔街见闻-快讯",
@@ -275,17 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时36分]"
-        },
-        {
-          "title": "国台办回应特朗普或将批准对台军售案",
-          "url": "https://www.toutiao.com/trending/7617485967372320822/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
@@ -343,13 +358,24 @@
           "time_info": "03时17分"
         },
         {
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
           "title": "特朗普：不担心伊朗成为“另一个越南”",
           "url": "https://wallstreetcn.com/livenews/3072105",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -491,8 +517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 14时07分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -554,7 +580,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -562,11 +588,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时07分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -613,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
+          "url": "https://wallstreetcn.com/livenews/3072134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -719,8 +757,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时07分]"
         }
       ]
     }
