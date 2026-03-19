@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:57:30.631673+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-03-19T14:02:24.740924+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 12时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 14时02分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 12时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 14时02分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -90,6 +90,17 @@
           "time_info": "[01时04分 ~ 10时29分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时02分]"
+        },
+        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时35分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时02分]"
         },
         {
           "title": "特朗普称对以袭击伊朗油气设施“毫不知情”",
@@ -157,17 +179,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
           "title": "美国总统特朗普：我不想授权这种程度的暴力和破坏。",
           "url": "https://flash.jin10.com/detail/20260319101033459800",
           "source": "金十数据",
@@ -177,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
         },
         {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
@@ -223,8 +223,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时02分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -333,7 +333,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -366,7 +366,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -418,8 +418,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 14时02分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -661,11 +661,12 @@
           "ranks": [
             16,
             18,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 12时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 14时02分]"
         }
       ]
     }
