@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:48:14.003799+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-03-19T18:43:35.201496+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -102,6 +102,17 @@
           "time_info": "[01时04分 ~ 10时29分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 18时43分]"
+        },
+        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -113,15 +124,15 @@
           "time_info": "[12时57分 ~ 15时49分]"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
           "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 18时43分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时35分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "特朗普称对以袭击伊朗油气设施“毫不知情”",
@@ -307,6 +307,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "美国总统特朗普：卡塔尔在任何方面、任何形式上都未参与袭击。",
           "url": "https://flash.jin10.com/detail/20260319100936825800",
           "source": "金十数据",
@@ -357,7 +368,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -518,7 +529,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -769,6 +780,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时04分 ~ 15时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩媒：三星电子将向OpenAI供应HBM4芯片",
+          "url": "https://flash.jin10.com/detail/20260319180042311800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     }
