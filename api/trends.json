@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:16:54.832820+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-03-25T23:02:56.467528+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时36分 ~ 21时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时36分 ~ 23时02分]"
         },
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -177,6 +177,17 @@
           "time_info": "[16时55分 ~ 21时16分]"
         },
         {
+          "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
           "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
           "url": "https://www.cls.cn/detail/2323952",
           "source": "财联社热门",
@@ -189,6 +200,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时54分 ~ 19时44分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时55分 ~ 23时02分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -214,17 +239,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时36分 ~ 14时05分]"
-        },
-        {
-          "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "特朗普称已向伊朗提出和平方案，外交部回应",
@@ -258,19 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 21时16分]"
         },
         {
           "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
@@ -312,9 +313,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时02分]"
+        },
+        {
+          "title": "伊朗：15点停战协议是特朗普的又一个谎言",
+          "url": "https://news.ifeng.com/c/8rmzEjePEh0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：仇恨不利于达成协议。",
@@ -328,17 +351,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时16分]"
-        },
-        {
           "title": "伊朗喊话特朗普：美国已“战略失败”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
           "source": "百度热搜",
@@ -348,8 +360,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时16分]"
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时02分]"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
@@ -373,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2020199361380905442",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -452,6 +476,17 @@
           "time_info": "19时44分"
         },
         {
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260325011633926800",
           "source": "金十数据",
@@ -483,17 +518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2020199361380905442",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "路透社/益普索民调：在汽油价格飙升背景下，仅有四分之一的美国人认可特朗普应对生活成本问题的方式。",
@@ -546,7 +570,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -763,7 +787,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -772,11 +796,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时36分 ~ 21时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时36分 ~ 23时02分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -844,6 +869,17 @@
           "time_info": "[00时15分 ~ 07时36分]"
         },
         {
+          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
@@ -867,6 +903,18 @@
           "time_info": "[05时41分 ~ 06时35分]"
         },
         {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
           "url": "https://wallstreetcn.com/livenews/3076183",
           "source": "华尔街见闻-快讯",
@@ -885,7 +933,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -896,18 +944,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2324750",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -929,7 +966,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1083,7 +1120,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1132,8 +1169,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时27分 ~ 21时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时27分 ~ 23时02分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -1363,7 +1400,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美元指数24日上涨",
@@ -1419,6 +1456,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，报道称伊朗拒绝停火。 ICE美元指数涨超0.3%，刷新日高至99.55点。",
+          "url": "https://wallstreetcn.com/livenews/3076738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "新兴市场货币指数回吐涨幅，投资者关注国际油价跌幅收窄。 WTI原油期货目前跌4.3%，重返88.40美元附近。 布伦特原油期货跌4.5%，重返95.70美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3076735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
