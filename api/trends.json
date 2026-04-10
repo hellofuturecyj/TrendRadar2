@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T13:28:16.561881+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-04-10T15:46:15.612173+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -43,6 +43,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时10分 ~ 07时40分]"
+        },
+        {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时46分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时46分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -94,28 +118,17 @@
           "time_info": "[01时10分 ~ 07时40分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时28分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时46分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -162,6 +175,18 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
+          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
+          "url": "https://www.cls.cn/detail/2339842",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时46分]"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -197,30 +222,6 @@
           "time_info": "[07时40分 ~ 13时28分]"
         },
         {
-          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
-          "url": "https://www.cls.cn/detail/2339842",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时28分]"
-        },
-        {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时28分]"
-        },
-        {
           "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
           "url": "https://flash.jin10.com/detail/20260410043455975800",
           "source": "金十数据",
@@ -243,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时40分]"
+        },
+        {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 15时46分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
@@ -281,6 +293,17 @@
           "time_info": "[06时43分 ~ 07时40分]"
         },
         {
+          "title": "特朗普，对鲤鱼宣战？",
+          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
           "url": "https://wallstreetcn.com/livenews/3085348",
           "source": "华尔街见闻-快讯",
@@ -303,17 +326,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时40分]"
-        },
-        {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "特朗普敦促北约作出承诺 确保霍尔木兹海峡安全",
@@ -349,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时43分]"
+        },
+        {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
@@ -497,7 +520,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -571,6 +594,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时43分]"
+        },
+        {
+          "title": "停火也拦不住美股散户卖出",
+          "url": "https://wallstreetcn.com/articles/3769606",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
@@ -820,11 +854,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时46分]"
         }
       ]
     }
