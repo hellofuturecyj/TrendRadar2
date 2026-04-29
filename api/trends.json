@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T19:39:54.799356+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-04-29T22:02:56.400416+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -37,6 +37,18 @@
           "time_info": "[00时54分 ~ 14时25分]"
         },
         {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
           "url": "https://www.cls.cn/detail/2359134",
           "source": "财联社热门",
@@ -50,18 +62,6 @@
           "time_info": "[14时25分 ~ 19时39分]"
         },
         {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
-        },
-        {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
           "url": "https://news.ifeng.com/c/8sijEznYe70",
           "source": "凤凰网",
@@ -69,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时02分]"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -84,13 +84,24 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "查尔斯国王给特朗普送了口钟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -215,6 +226,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "伊朗战争丨特朗普：可能延长对伊封锁，迫使其达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "英国国王给特朗普送了一口钟",
           "url": "https://www.toutiao.com/trending/7634038550409216027/",
           "source": "今日头条",
@@ -257,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普称可能延长对伊朗封锁以迫使其达成协议",
+          "url": "https://wallstreetcn.com/livenews/3096731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
@@ -325,6 +358,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -345,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "白宫官员：特朗普与石油公司讨论了在必要时将伊朗封锁措施持续数月的计划。",
+          "url": "https://wallstreetcn.com/livenews/3096715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普威胁伊朗“放聪明点”",
@@ -441,6 +496,17 @@
           "time_info": "[00时54分 ~ 06时01分]"
         },
         {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 22时02分]"
+        },
+        {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
@@ -453,15 +519,18 @@
           "time_info": "[00时54分 ~ 07时05分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时05分 ~ 22时02分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -487,19 +556,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时01分 ~ 14时25分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时05分 ~ 19时39分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -535,6 +591,19 @@
           "time_info": "06时01分"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 22时02分]"
+        },
+        {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
@@ -547,16 +616,16 @@
           "time_info": "[00时54分 ~ 02时20分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
           "ranks": [
-            10,
-            6
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时02分]"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -658,17 +727,6 @@
           "time_info": "07时05分"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
           "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
           "url": "https://flash.jin10.com/detail/20260429055656678800",
           "source": "金十数据",
@@ -738,7 +796,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -752,16 +810,28 @@
           "time_info": "[00时54分 ~ 07时05分]"
         },
         {
+          "title": "阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价",
+          "url": "https://wallstreetcn.com/livenews/3096738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时02分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -772,8 +842,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时02分]"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
+          "time_info": "[19时39分 ~ 22时02分]"
+        },
+        {
+          "title": "DeepSeek正内测识图功能",
+          "url": "https://wallstreetcn.com/livenews/3096728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -787,21 +879,32 @@
           "time_info": "00时54分"
         },
         {
-          "title": "DeepSeek上线识图模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
+          "title": "揭秘DeepSeekV4背后的黑科技",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeekV4%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "22时02分"
+        },
+        {
+          "title": "阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价",
+          "url": "https://flash.jin10.com/detail/20260429214143884800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
@@ -815,6 +918,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌超1%，医疗业ETF跌近1%，能源业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3096727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3095983",
           "source": "华尔街见闻-快讯",
@@ -824,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美股盘初：存储芯片概念股大涨，希捷科技涨约17%",
+          "url": "https://wallstreetcn.com/livenews/3096722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美股盘前纳指跌超1.4%",
@@ -848,6 +973,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3096698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
@@ -857,6 +993,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "金十图示：2026年04月29日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260429214135719800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
