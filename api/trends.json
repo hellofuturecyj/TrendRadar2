@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T21:26:56.168353+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-05-16T22:58:49.824608+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -189,11 +189,12 @@
             15,
             13,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时40分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[01时40分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -244,6 +245,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时49分 ~ 19时53分]"
+        },
+        {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时58分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -299,18 +312,6 @@
           "time_info": "[14时24分 ~ 16时50分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时26分]"
-        },
-        {
           "title": "特朗普：热情期待在华盛顿接待习主席",
           "url": "https://www.toutiao.com/trending/7638941233318104619/",
           "source": "今日头条",
@@ -349,6 +350,21 @@
           "time_info": "[11时32分 ~ 21时26分]"
         },
         {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            15,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普结束访华 乘专机离开北京",
           "url": "https://www.douyin.com/hot/2499944",
           "source": "抖音",
@@ -378,23 +394,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
         {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "特朗普：不希望看到台湾有人闹“独立”",
+          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            14,
-            15,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 21时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -402,11 +415,27 @@
           "source": "今日头条",
           "ranks": [
             12,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            20,
+            19,
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时49分 ~ 21时26分]"
+          "time_info": "[16时49分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
@@ -421,6 +450,19 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时58分]"
+        },
+        {
           "title": "美国总统特朗普称赞股市。",
           "url": "https://wallstreetcn.com/livenews/3104662",
           "source": "华尔街见闻-快讯",
@@ -433,16 +475,16 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
-          "url": "https://flash.jin10.com/detail/20260516185024363800",
-          "source": "金十数据",
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            16
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普：汽油价格（上涨）将是短期性的阵痛。",
@@ -494,20 +536,6 @@
           "time_info": "[01时40分 ~ 06时57分]"
         },
         {
-          "title": "特朗普回国后谈中国行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            20,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 21时26分]"
-        },
-        {
           "title": "特朗普：“伊斯兰国”二号头目被消灭",
           "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
           "source": "凤凰网",
@@ -518,18 +546,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时24分 ~ 16时50分]"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时26分]"
         },
         {
           "title": "特朗普结束访华，大赞中南海景致：若待得惯都不想走",
@@ -592,6 +608,18 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时58分]"
+        },
+        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -614,6 +642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普警告台湾不要试图走向“独立”",
+          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
@@ -639,6 +678,28 @@
           "time_info": "[01时40分 ~ 01时41分]"
         },
         {
+          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
+          "url": "https://flash.jin10.com/detail/20260516214439239800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
+          "url": "https://flash.jin10.com/detail/20260516214353885800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "特朗普儿媳妇发布打卡长城照",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E5%A6%87%E5%8F%91%E5%B8%83%E6%89%93%E5%8D%A1%E9%95%BF%E5%9F%8E%E7%85%A7",
           "source": "百度热搜",
@@ -648,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
@@ -672,17 +744,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "特朗普警告台湾不要试图走向“独立”",
-          "url": "https://www.toutiao.com/trending/7640462139869630015/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
           "title": "特朗普称随访美国商人是自己想来的",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
           "source": "百度热搜",
@@ -703,17 +764,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -825,11 +875,12 @@
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时56分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 22时58分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -842,8 +893,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时56分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 22时58分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -1051,11 +1102,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 22时58分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -1127,11 +1179,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时58分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -1139,11 +1192,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时58分]"
         },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
@@ -1204,11 +1258,12 @@
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时58分]"
         }
       ]
     },
