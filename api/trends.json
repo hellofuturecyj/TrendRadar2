@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-30T17:20:37.942478+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-05-30T19:22:59.552918+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
           "url": "https://news.ifeng.com/c/8tXUU39QqQh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时22分]"
         },
         {
           "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时22分]"
         },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -38,8 +39,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 17时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 19时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普肖像纪念钞能流通吗",
@@ -62,6 +74,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时22分]"
         },
         {
           "title": "白宫备忘录显示，美国总统特朗普健康状况极佳，心脏、肺、神经系统及整体身体机能均表现强健。",
@@ -100,19 +138,6 @@
           "time_info": "[11时35分 ~ 14时48分]"
         },
         {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 17时20分]"
-        },
-        {
           "title": "白宫发布特朗普医生出具的备忘录：特朗普没有动脉阻塞及异常情况。 特朗普有轻微小腿肿胀。医生称特朗普的小腿肿胀较2025年有所改善 特朗普的医生表示总统健康状况适合履行所有职责。 特朗普的医生表示总统健康状况极佳。",
           "url": "https://wallstreetcn.com/livenews/3111711",
           "source": "华尔街见闻-快讯",
@@ -136,16 +161,16 @@
           "time_info": "[02时35分 ~ 07时15分]"
         },
         {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
+          "title": "美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”",
+          "url": "https://wallstreetcn.com/livenews/3111766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            6
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 17时20分]"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时22分]"
         },
         {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
@@ -168,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”",
-          "url": "https://wallstreetcn.com/livenews/3111766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -209,7 +223,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -239,8 +253,35 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 19时22分]"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时35分 ~ 19时22分]"
+        },
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
@@ -251,32 +292,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 07时15分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 17时20分]"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 17时20分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -371,6 +386,18 @@
           "time_info": "[05时09分 ~ 07时15分]"
         },
         {
+          "title": "美股商业航天股全线重挫",
+          "url": "https://www.douyin.com/hot/2517641",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时22分]"
+        },
+        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
@@ -382,15 +409,15 @@
           "time_info": "[05时09分 ~ 07时15分]"
         },
         {
-          "title": "美股商业航天股全线重挫",
-          "url": "https://www.douyin.com/hot/2517641",
-          "source": "抖音",
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "19时22分"
         },
         {
           "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
@@ -477,11 +504,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时22分]"
         }
       ]
     },
