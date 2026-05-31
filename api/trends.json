@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-31T19:01:42.160758+08:00",
-  "total_titles_processed": 989,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-05-31T20:17:48.258206+08:00",
+  "total_titles_processed": 1073,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -15,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 18时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 20时17分]"
         },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -232,6 +231,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
           "url": "https://flash.jin10.com/detail/20260531103926927800",
           "source": "金十数据",
@@ -260,7 +270,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
@@ -278,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 20时17分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
