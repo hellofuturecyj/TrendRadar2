@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-20T17:18:54.770755+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-06-20T19:57:47.256060+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 19时57分]"
+        },
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=1&Refer=top",
@@ -32,18 +45,6 @@
           "time_info": "[02时01分 ~ 13时17分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 17时18分]"
-        },
-        {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
           "url": "https://news.ifeng.com/c/8u5ipgperKS",
           "source": "凤凰网",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时57分]"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -83,26 +95,15 @@
           "time_info": "[06时05分 ~ 13时17分]"
         },
         {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "19时57分"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -226,6 +227,18 @@
           "time_info": "[08时10分 ~ 13时17分]"
         },
         {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时57分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
           "url": "https://flash.jin10.com/detail/20260620025727223800",
           "source": "金十数据",
@@ -296,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时57分]"
         },
         {
           "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
@@ -483,20 +508,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
         {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "19时57分"
         },
         {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
@@ -519,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "特朗普接受采访 谈及伊以、古巴、权力边界等问题",
@@ -614,8 +661,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 19时57分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -627,19 +674,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 19时57分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时57分]"
         },
         {
           "title": "美股存储芯片持续暴涨",
@@ -648,7 +696,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -719,7 +767,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
@@ -743,6 +791,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 04时01分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
