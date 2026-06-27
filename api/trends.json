@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T15:51:55.960932+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-06-27T18:11:48.340699+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -83,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 18时11分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 15时51分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "欧盟委员会发言人：（回应美国总统特朗普的威胁）欧盟及其成员国拥有在其领土内监管经济活动的主权权利。",
@@ -232,6 +243,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
+          "url": "https://wallstreetcn.com/livenews/3125565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "美国总统特朗普批评纽约市的租金冻结措施。",
           "url": "https://flash.jin10.com/detail/20260627022215773800",
           "source": "金十数据",
@@ -322,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 18时11分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -335,8 +357,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时16分 ~ 18时11分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时16分 ~ 15时51分]"
+          "time_info": "[08时10分 ~ 18时11分]"
         },
         {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
@@ -348,18 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 15时51分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -374,6 +396,18 @@
           "time_info": "[00时19分 ~ 08时10分]"
         },
         {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 18时11分]"
+        },
+        {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3125469",
           "source": "华尔街见闻-快讯",
@@ -386,17 +420,6 @@
           "time_info": "[06时16分 ~ 08时10分]"
         },
         {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
           "url": "https://wallstreetcn.com/articles/3775625",
           "source": "华尔街见闻",
@@ -404,8 +427,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 18时11分]"
         },
         {
           "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
@@ -444,7 +467,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -494,6 +517,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
           "url": "https://flash.jin10.com/detail/20260626233456947800",
           "source": "金十数据",
@@ -533,7 +567,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
@@ -541,7 +575,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -578,6 +612,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "DeepSeek发布DSpark",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
+          "url": "https://wallstreetcn.com/livenews/3125564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     },
