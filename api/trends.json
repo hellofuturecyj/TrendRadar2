@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T00:07:11.146323+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T02:06:30.073660+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         }
       ]
     },
@@ -64,20 +64,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时06分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
           "url": "https://flash.jin10.com/detail/20260627230052437800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时06分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -87,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -98,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         }
       ]
     },
@@ -115,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -126,19 +127,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         }
       ]
     },
@@ -154,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -165,8 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时06分]"
         }
       ]
     }
