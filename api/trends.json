@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T12:08:19.237406+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-07-17T15:18:51.007300+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时18分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时18分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -71,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时18分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时13分]"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时18分]"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -136,17 +148,6 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260717003130071800",
           "source": "金十数据",
@@ -175,7 +176,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -241,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -249,7 +250,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -279,11 +280,23 @@
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "15时18分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -331,13 +344,25 @@
           "time_info": "[05时02分 ~ 06时13分]"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时18分]"
+        },
+        {
           "title": "新闻蒸馏器︱特朗普倾向扩大对伊朗军事行动，导弹已击中争议岛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33596311",
           "source": "澎湃新闻",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -348,7 +373,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -381,18 +406,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -447,7 +461,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -473,11 +487,12 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时18分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -657,9 +672,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时18分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
