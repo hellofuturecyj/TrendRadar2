@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T15:18:51.007300+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-07-17T18:03:38.183266+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时03分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -250,7 +251,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -265,6 +266,18 @@
           "time_info": "[01时18分 ~ 08时02分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时03分]"
+        },
+        {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
           "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
           "source": "凤凰网",
@@ -276,16 +289,15 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "特朗普说别人都在笑话美国",
@@ -294,7 +306,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -349,11 +361,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时03分]"
         },
         {
           "title": "新闻蒸馏器︱特朗普倾向扩大对伊朗军事行动，导弹已击中争议岛",
@@ -376,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -670,11 +694,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时03分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
