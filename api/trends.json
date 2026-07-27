@@ -1,103 +1,55 @@
 {
-  "generated_at": "2026-07-27T22:38:25.380476+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-28T00:59:39.647559+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 16,
       "titles": [
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 11时20分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/articles/3777934",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
-          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 19时26分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普是不是美国最好总统？泽连斯基回应",
-          "url": "https://news.ifeng.com/c/8v6JXj4MicX",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
+          "url": "https://flash.jin10.com/detail/20260728003026690800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "00时59分"
         },
         {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时08分]"
-        },
-        {
-          "title": "3个选项，特朗普举棋未定",
-          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：正在建造大量爱国者导弹。",
+          "url": "https://flash.jin10.com/detail/20260728002940114800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普称在伊朗问题上“可能会有好事发生”，标普500指数转涨",
+          "url": "https://wallstreetcn.com/livenews/3140436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "美国总统特朗普：尚未与沙特阿拉伯讨论加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260728002933898800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -106,143 +58,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         },
         {
-          "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
-          "url": "https://flash.jin10.com/detail/20260727034547959800",
+          "title": "美国总统特朗普：可能需要介入胡塞武装（问题）。",
+          "url": "https://flash.jin10.com/detail/20260728002927654800",
           "source": "金十数据",
           "ranks": [
-            1,
-            12,
-            26
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 07时08分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
-          "url": "https://flash.jin10.com/detail/20260727034241267800",
+          "title": "美国总统特朗普：伊朗通过协调方提出了会面请求。",
+          "url": "https://flash.jin10.com/detail/20260728002806691800",
           "source": "金十数据",
           "ranks": [
-            2,
-            13,
-            27
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 07时08分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
-          "url": "https://flash.jin10.com/detail/20260727010619989800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时11分]"
-        },
-        {
-          "title": "英国新任首相：若有必要将公开批评特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139848",
+          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3140432",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时01分]"
-        },
-        {
-          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3139844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时01分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时08分]"
-        },
-        {
-          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
-          "url": "https://wallstreetcn.com/livenews/3139838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时01分]"
-        },
-        {
-          "title": "内塔尼亚胡称将赴美会晤特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时01分]"
-        },
-        {
-          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
-          "url": "https://wallstreetcn.com/livenews/3139824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时01分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
-          "url": "https://flash.jin10.com/detail/20260727041540869800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -251,161 +102,125 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         },
         {
-          "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
-          "url": "https://flash.jin10.com/detail/20260726230940914800",
+          "title": "美国总统特朗普：我有很多耐心，还有充足的时间。",
+          "url": "https://flash.jin10.com/detail/20260728002802002800",
           "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "00时59分"
         },
         {
-          "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
-          "url": "https://flash.jin10.com/detail/20260727002330493800",
+          "title": "美国总统特朗普：我们有很多弹药。我希望能有更多。",
+          "url": "https://flash.jin10.com/detail/20260728002732996800",
           "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "00时59分"
         },
         {
-          "title": "美时政评论员发文：特朗普不希望赖清德搞“抗中保台”",
-          "url": "https://wallstreetcn.com/livenews/3140373",
+          "title": "美国总统特朗普：（关于伊朗）我们正在进行良好的谈判。有很大机会会发生一些事情。",
+          "url": "https://flash.jin10.com/detail/20260728002729038800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望会面，我们会与他们会面。",
+          "url": "https://flash.jin10.com/detail/20260728002633232800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国防部长赫格塞思在伊朗问题上的表现并不感到沮丧，他做得很好。",
+          "url": "https://flash.jin10.com/detail/20260728002614588800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普连发数十张AI图遭吐槽",
+          "url": "https://www.douyin.com/hot/2586656",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普：为了谈判，已经决定暂停袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3140411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
-          "url": "https://flash.jin10.com/detail/20260726222401916800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "调查：多数美国人认为伊朗冲突比特朗普预期更困难",
-          "url": "https://flash.jin10.com/detail/20260727102142849800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "00时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时08分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 07时08分]"
-        },
-        {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
+          "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时08分]"
-        },
-        {
-          "title": "美伊骤然停火，有望重返谈判桌！AI“开放权重模型”公开信签署企业增至50家，“大空头”加码做空美光和英伟达……当前金银油均呈多头占优，美股情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260727104810536800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "00时59分"
         },
         {
-          "title": "美股迎关键一周：所有目光转向AI财报与美联储",
-          "url": "https://flash.jin10.com/detail/20260727104614100800",
-          "source": "金十数据",
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "美伊紧张局势缓和，美股三大股指集体高开，SK海力士涨超3%，布油一度大跌7%、债市走强",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "美股回吐部分涨幅，纳斯达克100指数一度转跌。",
-          "url": "https://flash.jin10.com/detail/20260727220816201800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -414,167 +229,59 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         },
         {
-          "title": "美股三大股指集体高开，道指涨0.9%，标普500指数涨0.7%，纳指涨1%。明星科技股普涨，SK海力士涨超3%，闪迪涨1%；原油股走低，埃克森美孚、康菲石油、英国石油跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3140361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "美银警告：美股最弱窗口即将到来",
-          "url": "https://www.toutiao.com/trending/7667156846574046762/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "美国软件公司美股盘初走高，Salesforce(CRM.N)涨超3%，甲骨文(ORCL.N)涨约5%，ServiceNow(NOW.N)涨近4%。",
-          "url": "https://flash.jin10.com/detail/20260727214806636800",
+          "title": "美股芯片股下挫 费城半导体指数跌约5%",
+          "url": "https://flash.jin10.com/detail/20260727235001721800",
           "source": "金十数据",
           "ranks": [
-            26
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "阿斯麦美股盘前回吐涨幅；阿斯麦欧股短线跳水，其在阿姆斯特丹市场下跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3140352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3140351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 15时34分]"
-        },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 22时38分]"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "调查：四成以上ChatGPT请求涉及跨职业任务",
-          "url": "https://flash.jin10.com/detail/20260727183926351800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "ChatGPT也不爱打工只想睡觉吗",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E4%B9%9F%E4%B8%8D%E7%88%B1%E6%89%93%E5%B7%A5%E5%8F%AA%E6%83%B3%E7%9D%A1%E8%A7%89%E5%90%97&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "汇市盘初，美元指数DXY跌0.16%，报101.31；澳元兑美元AUD/USD涨0.23%；美元兑日元USD/JPY跌0.16%；欧元兑美元EUR/USD涨0.18%。",
-          "url": "https://flash.jin10.com/detail/20260727051159970800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨3.7%，报91.20美元，处于连续第二个交易日反弹之中。",
-          "url": "https://wallstreetcn.com/livenews/3140371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3140408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     },
@@ -584,14 +291,14 @@
       "titles": [
         {
           "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         }
       ]
     },
@@ -604,12 +311,11 @@
           "url": "https://www.zhihu.com/question/2064349598202779354",
           "source": "知乎",
           "ranks": [
-            17,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 22时38分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     }
