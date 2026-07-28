@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:12:14.874390+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-07-28T15:41:17.671733+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时41分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普：美以在伊朗问题上存在分歧",
+          "url": "https://wallstreetcn.com/livenews/3140838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国总统特朗普：可能需要介入胡塞武装（问题）。",
@@ -196,6 +208,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时41分]"
+        },
+        {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3140466",
           "source": "华尔街见闻-快讯",
@@ -208,26 +231,16 @@
           "time_info": "[02时42分 ~ 04时24分]"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时12分]"
-        },
-        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时41分]"
         },
         {
           "title": "特朗普将在白宫再会泽连斯基",
@@ -596,7 +609,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股",
@@ -622,6 +635,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 04时24分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时41分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时41分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -661,26 +698,16 @@
           "time_info": "[06时10分 ~ 06时11分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
           "ranks": [
+            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时41分]"
         },
         {
           "title": "美股迎芯片风暴 苹果重返市值第一",
@@ -694,16 +721,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
           "ranks": [
-            6,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -722,11 +748,12 @@
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时41分]"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -795,6 +822,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3140506",
           "source": "华尔街见闻-快讯",
@@ -851,11 +889,12 @@
           "ranks": [
             13,
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 12时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 15时41分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -902,11 +941,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时41分 ~ 15时41分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
