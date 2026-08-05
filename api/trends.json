@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:41:15.853472+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-08-05T18:37:22.216947+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 18时37分]"
         },
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805181255161800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -266,7 +277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
@@ -464,6 +475,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3144913",
           "source": "华尔街见闻-快讯",
@@ -503,6 +525,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 18时37分]"
+        },
+        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
@@ -512,17 +545,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 08时06分]"
-        },
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时41分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -561,7 +583,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -600,6 +622,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 06时14分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
