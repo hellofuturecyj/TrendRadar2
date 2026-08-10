@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T17:24:29.621610+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-08-10T19:11:09.959799+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -52,8 +52,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 17时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 19时11分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 19时11分]"
+        },
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 19时11分]"
         },
         {
           "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
@@ -79,18 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 04时35分]"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -145,15 +167,17 @@
           "time_info": "[09时54分 ~ 13时39分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时58分 ~ 17时24分]"
+          "time_info": "[15时44分 ~ 19时11分]"
         },
         {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
@@ -169,6 +193,17 @@
           "time_info": "[03时35分 ~ 05时34分]"
         },
         {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
           "url": "https://flash.jin10.com/detail/20260810033626643800",
           "source": "金十数据",
@@ -179,18 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时34分]"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时24分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -226,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "特朗普不得已对伊朗降低调门",
+          "url": "https://wallstreetcn.com/livenews/3147448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -264,7 +298,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -325,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "苹果美股盘前下跌约1.2%，Jefferies下调其评级至低配。",
+          "url": "https://wallstreetcn.com/livenews/3147454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         }
       ]
     },
@@ -339,7 +384,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -368,11 +413,12 @@
             10,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 19时11分]"
         }
       ]
     },
